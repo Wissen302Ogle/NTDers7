@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormIslemleri", "FormIslemleri\FormIslemleri.csproj", "{0014CCD7-5743-46BB-8F39-D22C436A0246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormdanFormaVeri", "FormdanFormaVeri\FormdanFormaVeri.csproj", "{4DC8827E-2FCA-459B-873C-0470A5F25FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0014CCD7-5743-46BB-8F39-D22C436A0246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0014CCD7-5743-46BB-8F39-D22C436A0246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0014CCD7-5743-46BB-8F39-D22C436A0246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0014CCD7-5743-46BB-8F39-D22C436A0246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC8827E-2FCA-459B-873C-0470A5F25FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC8827E-2FCA-459B-873C-0470A5F25FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC8827E-2FCA-459B-873C-0470A5F25FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC8827E-2FCA-459B-873C-0470A5F25FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12F2BB1-1E6B-416C-BB1D-3905D71AFD50}
+	EndGlobalSection
+EndGlobal

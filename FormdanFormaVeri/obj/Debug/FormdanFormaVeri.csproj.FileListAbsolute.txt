@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.AnaForm.resources
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.HedefForm.resources
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.Properties.Resources.resources
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\bin\Debug\FormdanFormaVeri.exe.config
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\bin\Debug\FormdanFormaVeri.exe
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\bin\Debug\FormdanFormaVeri.pdb
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.exe
+C:\Users\Section2\source\repos\NTDers7\FormdanFormaVeri\obj\Debug\FormdanFormaVeri.pdb

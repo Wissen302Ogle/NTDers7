@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\bin\Debug\Yontem1-Constructor.exe.config
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\bin\Debug\Yontem1-Constructor.exe
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\bin\Debug\Yontem1-Constructor.pdb
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1-Constructor.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1_Constructor.FormAna.resources
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1_Constructor.FormGelen.resources
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1_Constructor.Properties.Resources.resources
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1-Constructor.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1-Constructor.exe
+C:\Users\Section2\source\repos\NTDers7\Yontem1-Constructor\obj\Debug\Yontem1-Constructor.pdb

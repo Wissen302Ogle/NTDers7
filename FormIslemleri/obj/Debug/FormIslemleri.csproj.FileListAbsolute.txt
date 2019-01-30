@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\bin\Debug\FormIslemleri.exe.config
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\bin\Debug\FormIslemleri.exe
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\bin\Debug\FormIslemleri.pdb
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.Anaform.resources
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.Properties.Resources.resources
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.exe
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.pdb
+C:\Users\Section2\source\repos\NTDers7\FormIslemleri\obj\Debug\FormIslemleri.RenkDegistirenForm.resources
